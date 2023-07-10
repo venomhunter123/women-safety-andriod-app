@@ -1,15 +1,16 @@
 # women-safety-andriod-app
 A smart Women safety application with various useful features needed intime.
 
-Features
-Easy to implement
-Easy to understand
-Shake detector
-Siren sound
+
+Features:
+
+User friendly and easy to understand
 Call to registered mobile
 Shake device to send SOS to registered mobile and play siren
 Sends Last Known Location to registered mobile
 Now we can add multiple contacts to send SOS
+
+
 Prerequisites :
 Android Studio
 Basic knowledge about Firebase Authentication and Realtime database.
@@ -22,3 +23,5 @@ Extract zip if downloaded code
 Open project in Android Studio
 Wait while Android Studio Download gradle or required files
 Hit Run Button !
+or 
+Download the apk to run the application on your device.

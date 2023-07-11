@@ -15,7 +15,7 @@ Prerequisites :
 Android Studio
 Basic knowledge about Firebase Authentication and Realtime database.
 Build and Run Application
-SparkWomen A Women Safety Application requires Android Oreo or newer version to run.
+A Women Safety Application requires Android Oreo or newer version to run.
 Follow this steps to get Working Project!
 
 Clone this repository or download file
